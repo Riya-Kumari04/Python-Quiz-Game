@@ -1,0 +1,171 @@
+{
+    "Basics": [
+        {
+            "question": "Which keyword is used to define a function in Python?",
+            "options": [
+                "function",
+                "fun",
+                "def",
+                "method"
+            ],
+            "answer": 2,
+            "difficulty": "Easy",
+            "explanation": "Python uses the def keyword to define functions."
+        },
+
+        {
+            "question": "Which data type is mutable?",
+            "options": [
+                "Tuple",
+                "String",
+                "List",
+                "Integer"
+            ],
+            "answer": 2,
+            "difficulty": "Easy",
+            "explanation": "Lists are mutable whereas tuples and strings are immutable."
+        },
+
+        {
+            "question": "What does len() return?",
+            "options": [
+                "Datatype",
+                "Memory",
+                "Length",
+                "ASCII"
+            ],
+            "answer": 2,
+            "difficulty": "Easy",
+            "explanation": "len() returns the number of elements."
+        }
+    ],
+
+    "Data Structures": [
+
+        {
+            "question": "Which collection stores unique values?",
+            "options": [
+                "List",
+                "Dictionary",
+                "Set",
+                "Tuple"
+            ],
+            "answer": 2,
+            "difficulty": "Easy",
+            "explanation": "Set stores unique elements."
+        },
+
+        {
+            "question": "Dictionary stores data in?",
+            "options": [
+                "Index",
+                "Key Value Pair",
+                "Array",
+                "Tree"
+            ],
+            "answer": 1,
+            "difficulty": "Medium",
+            "explanation": "Dictionary stores information using key-value pairs."
+        },
+
+        {
+            "question": "Which collection is immutable?",
+            "options": [
+                "List",
+                "Tuple",
+                "Set",
+                "Dictionary"
+            ],
+            "answer": 1,
+            "difficulty": "Easy",
+            "explanation": "Tuple is immutable."
+        }
+
+    ],
+
+    "OOP": [
+
+        {
+            "question": "Which method acts as constructor?",
+            "options": [
+                "__new__",
+                "__create__",
+                "__init__",
+                "__main__"
+            ],
+            "answer": 2,
+            "difficulty": "Easy",
+            "explanation": "__init__ initializes object attributes."
+        },
+
+        {
+            "question": "self represents?",
+            "options": [
+                "Current Object",
+                "Parent Class",
+                "Global Variable",
+                "Function"
+            ],
+            "answer": 0,
+            "difficulty": "Easy",
+            "explanation": "self refers to current object."
+        },
+
+        {
+            "question": "Inheritance provides?",
+            "options": [
+                "Code Reusability",
+                "Memory",
+                "Compilation",
+                "Encryption"
+            ],
+            "answer": 0,
+            "difficulty": "Medium",
+            "explanation": "Inheritance promotes code reuse."
+        }
+
+    ],
+
+    "Advanced": [
+
+        {
+            "question": "Which keyword creates a generator?",
+            "options": [
+                "yield",
+                "return",
+                "break",
+                "continue"
+            ],
+            "answer": 0,
+            "difficulty": "Hard",
+            "explanation": "Generators use yield keyword."
+        },
+
+        {
+            "question": "What does *args store?",
+            "options": [
+                "Keyword Arguments",
+                "Positional Arguments",
+                "Dictionary",
+                "Class"
+            ],
+            "answer": 1,
+            "difficulty": "Medium",
+            "explanation": "*args stores variable positional arguments."
+        },
+
+        {
+            "question": "Which module is used to work with JSON?",
+            "options": [
+                "json",
+                "os",
+                "random",
+                "sys"
+            ],
+            "answer": 0,
+            "difficulty": "Easy",
+            "explanation": "json module is used to read and write JSON files."
+        }
+
+    ]
+}
